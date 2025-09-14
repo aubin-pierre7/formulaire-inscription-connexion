@@ -6,4 +6,4 @@ Il est responsive, simple a utiliser et peut être intégre facilement dans vos 
 
 # Demo
 
-Lien vers le site en ligne : 
+Lien vers le site en ligne : https://aubin-pierre7.github.io/formulaire-inscription-connexion/
